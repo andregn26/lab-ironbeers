@@ -5,3 +5,18 @@ dark-blue: #0a2c42;
 grey: #bfbfbf;
 font-family: Arial, Helvetica, sans-serif;
 */
+
+header {
+    background-color: #2081c3;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-nav {
+    border: red solid 1px;
+}
+
+.main-nav ul {
+    display: flex;
+    gap: 3rem;
+}
